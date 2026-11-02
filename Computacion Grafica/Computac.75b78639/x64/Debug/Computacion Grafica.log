@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Winner\Desktop\Proyectos Visual Studio\Computacion Grafica\Main.cpp(303,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Winner\Desktop\Proyectos Visual Studio\Computacion Grafica\Main.cpp(304,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Computacion Grafica.vcxproj -> C:\Users\Winner\Desktop\Proyectos Visual Studio\Computacion Grafica\x64\Debug\Computacion Grafica.exe

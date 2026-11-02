@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Computac.75b78639\\x64\\Debug\\Shaders.obj",
+            "outputs": [
+                "Computac.75b78639\\x64\\Debug\\Shaders.cpp.obj.dt.module.json",
+                "Computac.75b78639\\x64\\Debug\\Shaders.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
